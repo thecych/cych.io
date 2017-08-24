@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Cyber Chain
 
 You can use the [editor on GitHub](https://github.com/thecych/cych.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
